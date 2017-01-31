@@ -19,6 +19,7 @@ import java.util.Optional;
  * Initializes the application and starts the interaction with the user.
  */
 public class Main {
+    private String test;
 
     /** Version info of the program. */
     public static final String VERSION = "AddessBook Level 2 - Version 1.0";
