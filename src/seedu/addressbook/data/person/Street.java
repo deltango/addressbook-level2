@@ -7,11 +7,11 @@ public class Street {
         this._value = block;
     }
 
-    private String get_value() {
+    public String get_value() {
         return _value;
     }
 
-    private void set_value(String _value) {
+    public void set_value(String _value) {
         this._value = _value;
     }
 }
