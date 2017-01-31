@@ -7,11 +7,11 @@ public class PostalCode {
         this._value = block;
     }
 
-    private int get_value() {
+    public int get_value() {
         return _value;
     }
 
-    private void set_value(int _value) {
+    public void set_value(int _value) {
         this._value = _value;
     }
 }
